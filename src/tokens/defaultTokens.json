@@ -2121,4 +2121,17 @@
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/dyad.svg"
     }
-]
+],
+{
+    "chainId": 137,
+    "address": "0x597f95f12611a58C12e1C663157e7FD63112E25f",
+    "name": "Scraptoshi",
+    "symbol": "SCT",
+    "decimals": 18,
+    "logoURI": "https://ipfs.io/ipfs/QmV8MragDhj9A3uqHeQTqN841yujDM8W2zS5NcxbnNL9Qc",
+    "extensions": {
+        "website": "",
+        "description": "Scraptoshi (SCT) – Community token on Polygon with capped, fixed supply (1,000,000). Minting is permanently locked.",
+        "officialSymbol": "SCT"
+    }
+}
